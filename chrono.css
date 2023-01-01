@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.header{
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+    font-style: normal;
+    font-weight: 1000;
+    text-decoration-color: aliceblue;
+    text-decoration-line: underline;
+}
+
+.timer{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 80px;
+    border-color: aliceblue;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+    color: aliceblue;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
